@@ -1,4 +1,5 @@
 <script setup lang="ts">
+console.log('3232')
 import { ref } from 'vue'
 
 defineProps<{ msg: string }>()
