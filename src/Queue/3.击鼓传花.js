@@ -1,5 +1,4 @@
 const Queue = require('./1.Queue')
-console.log('434',Queue)
 
 // 循环队列 将最后一样删除插入第一项 根据传入的次数循环
 function hotPotato(elementsList, num) { 

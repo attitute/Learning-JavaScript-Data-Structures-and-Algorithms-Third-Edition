@@ -89,6 +89,7 @@ class Deque {
         return objString; 
     }
 }
+module.exports = Deque
 
 const deque = new Deque(); 
 console.log(deque.isEmpty()); // 输出 true 
